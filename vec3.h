@@ -74,9 +74,6 @@ public:
 using point3 = vec3;    // 3D Point
 using color = vec3;     // RGB Color
 
-#endif //RAYTRACING_VEC3_H
-
-
 // vec3 utility functions
 
 inline std::ostream &operator<<(std::ostream &out, const vec3 &v) {
@@ -122,3 +119,5 @@ inline vec3 cross(const vec3 &u, const vec3 &v) {
 inline vec3 unit_vector(vec3 u) {
     return u / u.length();
 }
+
+#endif //RAYTRACING_VEC3_H

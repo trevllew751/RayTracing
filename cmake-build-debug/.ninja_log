@@ -1,3 +1,5 @@
 # ninja log v5
 2	423	6754832252460525	CMakeFiles/RayTracing.dir/main.cpp.obj	b3b2c83c2118c1cb
 423	562	6754832253811043	RayTracing.exe	70908def042bf94f
+10	903	6754892733165066	CMakeFiles/RayTracing.dir/main.cpp.obj	b3b2c83c2118c1cb
+905	1219	6754892736235511	RayTracing.exe	70908def042bf94f
