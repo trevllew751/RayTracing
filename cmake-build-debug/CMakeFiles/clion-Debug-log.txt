@@ -1,4 +1,4 @@
-C:\Users\Trevl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Trevl/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Trevl\Desktop\Projects\Personal\RayTracing -B C:\Users\Trevl\Desktop\Projects\Personal\RayTracing\cmake-build-debug
+C:\Qt\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\Trevl\Documents\Projects\Personal\RayTracing -B C:\Users\Trevl\Documents\Projects\Personal\RayTracing\cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Trevl/Desktop/Projects/Personal/RayTracing/cmake-build-debug
+-- Build files have been written to: C:/Users/Trevl/Documents/Projects/Personal/RayTracing/cmake-build-debug
