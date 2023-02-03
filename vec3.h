@@ -78,6 +78,11 @@ public:
         return vec3(random_double(min, max), random_double(min, max), random_double(min, max));
     }
 
+    bool near_zero() const {
+        const auto s = 1e-8;
+        return (fabs(e[0]) < s) && (fabs(e[1]) < s) && (fabs(e[2]) < s);
+    }
+
 };
 
 // Type Aliases for the vec3 class
