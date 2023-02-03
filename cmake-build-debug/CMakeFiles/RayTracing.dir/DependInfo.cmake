@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Trevl/Documents/Projects/Personal/RayTracing/main.cpp" "CMakeFiles/RayTracing.dir/main.cpp.obj" "gcc" "CMakeFiles/RayTracing.dir/main.cpp.obj.d"
+  "C:/Users/Trevl/Documents/Projects/Personal/RayTracing/main.cpp" "CMakeFiles/RayTracing.dir/main.cpp.obj" "msvc" "CMakeFiles/RayTracing.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

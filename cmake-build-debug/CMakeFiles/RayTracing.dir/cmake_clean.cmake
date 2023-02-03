@@ -3,8 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/RayTracing.dir/main.cpp.obj.d"
   "RayTracing.exe"
   "RayTracing.exe.manifest"
+  "RayTracing.lib"
   "RayTracing.pdb"
-  "libRayTracing.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
