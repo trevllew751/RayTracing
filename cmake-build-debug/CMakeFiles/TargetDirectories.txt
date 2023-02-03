@@ -1,3 +1,0 @@
-C:/Users/Trevl/Documents/Projects/Personal/RayTracing/cmake-build-debug/CMakeFiles/RayTracing.dir
-C:/Users/Trevl/Documents/Projects/Personal/RayTracing/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Trevl/Documents/Projects/Personal/RayTracing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
