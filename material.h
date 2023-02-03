@@ -33,4 +33,17 @@ public:
     }
 };
 
+class metal : public material {
+public:
+    color albedo;
+
+public:
+    virtual bool scatter(const ray &r_in, const hit_record &rec, color &attenuation, ray &scattered) const override {
+        vec3 reflected = reflect(unit_vector(r_in.direction()), rec.normal);
+        scattered = ray(rec.p, reflected);
+        attenuation = albedo;
+        return (dot(scattered.direction(), rec.normal) > 0);
+    }
+};
+
 #endif //RAYTRACING_MATERIAL_H
